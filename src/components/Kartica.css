@@ -1,0 +1,22 @@
+/* .kartica {
+  background-color: rgb(77, 74, 74);
+  text-align: center;
+  width: 70%;
+  margin: 0px auto;
+  padding: 15px 0px 15px 0px;
+}
+.kartica > p {
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  font-weight: bold;
+}
+.kartica > p > span {
+  color: rgb(181, 184, 178);
+  font-size: 30px;
+} */
+.kartica {
+  background-color: rgb(100, 105, 105);
+  text-align: center;
+  width: 150px;
+  margin-left: 10px;
+}
